@@ -2232,12 +2232,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@cloud-carbon-footprint/app@1.1.0, @cloud-carbon-footprint/app@^1.1.0, @cloud-carbon-footprint/app@workspace:packages/app":
+"@cloud-carbon-footprint/app@1.2.0, @cloud-carbon-footprint/app@^1.1.0, @cloud-carbon-footprint/app@workspace:packages/app":
   version: 0.0.0-use.local
   resolution: "@cloud-carbon-footprint/app@workspace:packages/app"
   dependencies:
     "@cloud-carbon-footprint/aws": ^0.14.1
-    "@cloud-carbon-footprint/azure": ^1.0.0
+    "@cloud-carbon-footprint/azure": ^1.1.1
     "@cloud-carbon-footprint/common": ^1.8.0
     "@cloud-carbon-footprint/gcp": ^0.11.0
     "@cloud-carbon-footprint/on-premise": ^0.1.1
@@ -2302,7 +2302,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@cloud-carbon-footprint/azure@^1.0.0, @cloud-carbon-footprint/azure@workspace:packages/azure":
+"@cloud-carbon-footprint/azure@^1.1.1, @cloud-carbon-footprint/azure@workspace:packages/azure":
   version: 0.0.0-use.local
   resolution: "@cloud-carbon-footprint/azure@workspace:packages/azure"
   dependencies:
@@ -2313,7 +2313,7 @@ __metadata:
     "@azure/ms-rest-js": ^2.6.2
     "@azure/ms-rest-nodeauth": ^3.1.1
     "@cloud-carbon-footprint/common": ^1.9.0
-    "@cloud-carbon-footprint/core": ^0.17.0
+    "@cloud-carbon-footprint/core": ^0.17.1
     "@google-cloud/secret-manager": ^3.10.1
     "@types/jest": ^27.4.0
     "@types/jest-when": ^3.5.0
@@ -2346,7 +2346,7 @@ __metadata:
   dependencies:
     "@azure/arm-consumption": ^9.1.0
     "@azure/arm-resources-subscriptions": ^2.0.1
-    "@cloud-carbon-footprint/app": 1.1.0
+    "@cloud-carbon-footprint/app": 1.2.0
     "@cloud-carbon-footprint/common": ^1.9.0
     "@types/cli-table": ^0.3.0
     "@types/jest": ^27.4.0
@@ -2476,7 +2476,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@cloud-carbon-footprint/core@^0.17.0, @cloud-carbon-footprint/core@workspace:packages/core":
+"@cloud-carbon-footprint/core@^0.17.0, @cloud-carbon-footprint/core@^0.17.1, @cloud-carbon-footprint/core@workspace:packages/core":
   version: 0.0.0-use.local
   resolution: "@cloud-carbon-footprint/core@workspace:packages/core"
   dependencies:

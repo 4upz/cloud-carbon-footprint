@@ -1,5 +1,13 @@
 # @cloud-carbon-footprint/azure
 
+## 1.1.1
+
+### Patch Changes
+
+- 11559bff: Add missing usage types and region aliases with logging messages for easy expansion
+- Updated dependencies [9e929f03]
+  - @cloud-carbon-footprint/core@0.17.1
+
 ## 1.1.0
 
 ### Minor Changes

@@ -1,5 +1,16 @@
 # @cloud-carbon-footprint/app
 
+## 1.2.0
+
+### Minor Changes
+
+- 84fa2da1: Adds boundary for MongoDB pagination limit and fixes aggregations error on large timestamp estimates.
+
+### Patch Changes
+
+- Updated dependencies [11559bff]
+  - @cloud-carbon-footprint/azure@1.1.1
+
 ## 1.1.0
 
 ### Minor Changes
