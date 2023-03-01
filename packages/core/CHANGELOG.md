@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/core
 
+## 0.17.1
+
+### Patch Changes
+
+- 9e929f03: Fixes main field in package.json pointing to incorrect file
+
 ## 0.17.0
 
 ### Minor Changes
